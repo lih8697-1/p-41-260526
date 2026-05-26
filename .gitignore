@@ -40,8 +40,7 @@ out/
 .kotlin
 
 ### YAML ###
-*.yml
-*.yaml
+src/main/resources/application-secret.yml
 
 ### macOS ###
 .DS_Store
